@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 🚀 Happy Coding!
 
-👋 Hi, I’m Reiyansh Kushwaha
+👋 Hi, I’m Lalit Kushwaha
 
 👀 I’m a passionate![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) Developer Engineer interested in building impactful applications and exploring technologies like Spring Boot, Microservices, and DevOps.
 
